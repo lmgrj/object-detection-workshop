@@ -41,4 +41,4 @@ important functionalities and how to train your own models.
 
 ---
 
-Copyright © 2018, [Tryolabs](https://tryolabs.com/).
+Copyright © 2018, [Tryolabs/LMGRJ](https://tryolabs.com/).
